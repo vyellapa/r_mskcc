@@ -1,0 +1,5 @@
+VARIANT_ID	VARIANT_TYPE	ACCESSION	LENGTH	REPEATS	MIN_POSITION	MAX_POSITION	SUM_MS	CHANGE	5'-context	Actual_Change	3'-context	MH-count	Microhomology	Rep-count	Repeat	Classification
+VARIANT_ID	VARIANT_TYPE	ACCESSION	LENGTH	REPEATS	MIN_POSITION	MAX_POSITION	SUM_MS	CHANGE	5'-context	Actual_Change	3'-context	MH-count	Microhomology	Rep-count	Repeat	Classification
+VARIANT_ID	VARIANT_TYPE	ACCESSION	LENGTH	REPEATS	MIN_POSITION	MAX_POSITION	SUM_MS	CHANGE	5'-context	Actual_Change	3'-context	MH-count	Microhomology	Rep-count	Repeat	Classification
+VARIANT_ID	VARIANT_TYPE	ACCESSION	LENGTH	REPEATS	MIN_POSITION	MAX_POSITION	SUM_MS	CHANGE	5'-context	Actual_Change	3'-context	MH-count	Microhomology	Rep-count	Repeat	Classification
+VARIANT_ID	VARIANT_TYPE	ACCESSION	LENGTH	REPEATS	MIN_POSITION	MAX_POSITION	SUM_MS	CHANGE	5'-context	Actual_Change	3'-context	MH-count	Microhomology	Rep-count	Repeat	Classification

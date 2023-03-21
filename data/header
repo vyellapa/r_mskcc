@@ -1,0 +1,2 @@
+##fileformat=VCFv4.2
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	caveman_NORMAL	caveman_TUMOR	mutect_NORMAL	mutect_TUMOR	strelka_NORMAL	strelka_TUMOR
